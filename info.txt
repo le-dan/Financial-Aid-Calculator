@@ -1,0 +1,6 @@
+Yes %dorming or not
+11,503 %cost-of-attendance
+2900 %grants/scholarships
+Yes %take loans or not
+2000 %loan amount
+10 %monthly plan for spring and fall
